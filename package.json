@@ -32,7 +32,7 @@
     "@ionic-native/status-bar": "3.12.1",
     "@ionic/storage": "2.0.1",
     "angularfire2": "^4.0.0-rc0",
-    "cordova-android": "^6.2.3",
+    "cordova-android": "^8.0.0",
     "cordova-plugin-device": "^1.1.4",
     "cordova-plugin-facebook4": "^1.7.4",
     "cordova-plugin-splashscreen": "^4.0.3",
